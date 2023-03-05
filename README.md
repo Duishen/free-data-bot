@@ -26,12 +26,7 @@
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
-` BUILDPACKS`
 
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wmm-malinda/free-dat-bot/)
 ## `Install Manually 👇`
@@ -43,10 +38,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```bash
 apt update & upgrade -y
 apt install git -y
-pkg install nodejs -y 
+apt install nodejs -y 
+apt install npm -y 
 git clone https://github.com/wmm-malinda/free-dat-bot
 cd free-dat-bot
-
+npm install
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -54,8 +50,10 @@ npm start
 apt update & upgrade -y
 apt install git -y
 pkg install nodejs -y 
+apt install npm -y 
 git clone https://github.com/wmm-malinda/free-dat-bot
 cd free-dat-bot
+npm install
 npm start
 ```
 ## `For VPS`
