@@ -58,7 +58,14 @@ npm start
 ```
 ## `For VPS`
 ```bash
-apt install nodejs 
+apt update & upgrade -y
+sudo apt install curl dirsudo apt install gcc g++ make
+mngr apt-transport-https lsb-release ca-certificates vim
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt update && sudo apt install yarn
+
 apt install git 
 apt install bash
 git clone https://github.com/wmm-malinda/free-dat-bot
