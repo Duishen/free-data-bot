@@ -21,7 +21,7 @@
   "author": "Hiruwa",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/adiwajshing/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/hirusha-rukshan-fdo/Anony-bailey.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "@phaticusthiccy/open-apis": "^1.8.5",
