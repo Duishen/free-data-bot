@@ -58,10 +58,11 @@ npm start
 ```
 ## `For VPS`
 ```bash
-1. apt update & upgrade -y
+1. apt update
 2. sudo apt install curl dirmngr apt-transport-https lsb-release ca-certificates vim
-3. sudo apt install nodejs
-4. apt install gcc g++ make
+3. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+4. sudo apt install nodejs
+5. sudo apt install gcc g++ make
 5. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key   add echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list sudo apt update && sudo apt install yarn
 6. apt install git 
 7. apt install bash
