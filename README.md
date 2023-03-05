@@ -18,7 +18,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wmm-malinda/free-dat-bot)
 
-# Install Manually 👇
+## `Install Manually 👇`
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
