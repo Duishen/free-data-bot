@@ -1,11 +1,11 @@
 {
-  "name": "free-data-bot",
+  "name": "🔐-FREE-DATA-ʙᴏᴛ-🔐",
   "version": "1.0.0",
   "description": "WhatsApp User Bot For Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node --max_old_space_size=8192 index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
