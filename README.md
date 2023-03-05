@@ -63,13 +63,13 @@ npm start
 3. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 4. sudo apt install nodejs
 5. sudo apt install gcc g++ make
-5. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key   add echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list sudo apt update && sudo apt install yarn
-6. apt install git 
-7. apt install bash
-8. git clone https://github.com/wmm-malinda/free-dat-bot
-9. cd free-dat-bot
-10. npm install
-11. npm start    
+6. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key   add echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list sudo apt update && sudo apt install yarn
+7. apt install git 
+8. apt install bash
+9. git clone https://github.com/wmm-malinda/free-dat-bot
+10. cd free-dat-bot
+11. npm install
+12. npm start    
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
