@@ -31,7 +31,7 @@ apt update & upgrade -y
 apt install git -y
 pkg install nodejs -y 
 git clone https://github.com/wmm-malinda/free-dat-bot
-cd CheemsBot-MD6
+cd free-dat-bot
 
 npm start
 ```
