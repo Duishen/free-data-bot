@@ -1,6 +1,6 @@
 
 
-<p style="align-items: center;color: rgb(37, 28, 28);font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-weight: bold;justify-content: center;background-color: rgba(100, 100, 100, 0.6);">😍Welcome to Free Data Bot😍<br><br>
+<p style="align-items: center;color: rgb(37, 28, 28);font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-weight: bold;justify-content: center;background-color: rgba(100, 100, 100, 0.6);" align='center'><b>😍Welcome to Free Data Bot😍<br><br>
 
     මේ bot පාවිචිකරලා ඔයාට free internet යන්න ඕන ehi, v2ray File නොමිලේ ලාබාගන්න පුලුවන්.
     
@@ -8,13 +8,14 @@
     
     ✅ Whatsapp package file all isp<br>
     
+    
     ✅ Youtube package file all isp<br>
     
     ✅ Facebook package file all isp<br><br>
     
     😎 Zero balance file for all isp free file anad paid files
 
-</p>
+    </b></p>
 
 -------
 
