@@ -58,19 +58,16 @@ npm start
 ```
 ## `For VPS`
 ```bash
-apt update & upgrade -y
-sudo apt install curl dirmngr apt-transport-https lsb-release ca-certificates vim
-apt install gcc g++ make
-curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-sudo apt update && sudo apt install yarn
-
-apt install git 
-apt install bash
-git clone https://github.com/wmm-malinda/free-dat-bot
-cd free-dat-bot
-npm start
+1. apt update & upgrade -y
+2. sudo apt install curl dirmngr apt-transport-https lsb-release ca-certificates vim
+3. apt install gcc g++ make
+4. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key   add echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list sudo apt update && sudo apt install yarn
+5. apt install git 
+6. apt install bash
+7. git clone https://github.com/wmm-malinda/free-dat-bot
+8. cd free-dat-bot
+9. npm install
+10.npm start    
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
