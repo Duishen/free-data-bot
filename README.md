@@ -4,14 +4,14 @@
 
     මේ bot පාවිචිකරලා ඔයාට free internet යන්න ඕන ehi, v2ray File නොමිලේ ලාබාගන්න පුලුවන්.
     
-    මේ files ඔයාලට ගන්න පුලුවන්<br><br>
+    මේ files ඔයාලට ගන්න පුලුවන්
     
-    ✅ Whatsapp package file all isp<br>
+    ✅ Whatsapp package file all isp
     
     
-    ✅ Youtube package file all isp<br>
+    ✅ Youtube package file all isp
     
-    ✅ Facebook package file all isp<br><br>
+    ✅ Facebook package file all isp
     
     😎 Zero balance file for all isp free file anad paid files
 
