@@ -40,8 +40,8 @@ apt update & upgrade -y
 apt install git -y
 apt install nodejs -y 
 apt install npm -y 
-git clone https://github.com/wmm-malinda/free-dat-bot
-cd free-dat-bot
+git clone https://github.com/wmm-malinda/free-data-bot
+cd free-data-bot
 npm install
 npm start
 ```
@@ -51,8 +51,8 @@ apt update & upgrade -y
 apt install git -y
 pkg install nodejs -y 
 apt install npm -y 
-git clone https://github.com/wmm-malinda/free-dat-bot
-cd free-dat-bot
+git clone https://github.com/wmm-malinda/free-data-bot
+cd free-data-bot
 npm install
 npm start
 ```
@@ -66,8 +66,8 @@ npm start
 6. curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - sudo apt install nodejscurl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key   add echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list sudo apt update && sudo apt install yarn
 7. apt install git 
 8. apt install bash
-9. git clone https://github.com/wmm-malinda/free-dat-bot
-10. cd free-dat-bot
+9. git clone https://github.com/wmm-malinda/free-data-bot
+10. cd free-data-bot
 11. npm install
 12. npm start    
 ```
