@@ -14,10 +14,10 @@ global.APIKeys = {
 }
 
 
-global.owner = ['94771039631']
-global.premium = ['94771039631']
-global.ownernomer = '94771039631'
-global.ownername = 'Hiruwa'
+global.owner = ['94716885584']
+global.premium = ['94716885584']
+global.ownernomer = '94716885584'
+global.ownername = '𝗗𝗨𝗜𝗦𝗛𝗘𝗡'
 global.botname = 'Anonymous'
 global.footer = '©Anonymous'
 global.ig = 'https://github.com/'
